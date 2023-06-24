@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This website is a Kaitoo'Blog
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In this website i will share everything i know about AI, I hope you always support me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:khanhtranquoc.dev@gmail.com)
