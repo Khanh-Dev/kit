@@ -38,7 +38,7 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/profile.php?id=100022740612749
   flickr:
   github: 
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -48,7 +48,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
