@@ -12,4 +12,4 @@ In this website i will share everything i know about AI, I hope you always suppo
 
 ### Contact me
 
-[email@domain.com](mailto:khanhtranquoc.dev@gmail.com)
+[khanhtranquoc.dev@gmail.com](mailto:khanhtranquoc.dev@gmail.com)
